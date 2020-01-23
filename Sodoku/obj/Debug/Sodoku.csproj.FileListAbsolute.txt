@@ -1,0 +1,9 @@
+F:\C#\Sodoku\Sodoku\bin\Debug\Sodoku.exe.config
+F:\C#\Sodoku\Sodoku\bin\Debug\Sodoku.exe
+F:\C#\Sodoku\Sodoku\bin\Debug\Sodoku.pdb
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.Form1.resources
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.Cache
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.exe
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.pdb
+F:\C#\Sodoku\Sodoku\obj\Debug\Sodoku.csprojResolveAssemblyReference.cache
